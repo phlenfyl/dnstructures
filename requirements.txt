@@ -1,0 +1,13 @@
+dj-rest-auth==6.0.0
+Django==5.0.2
+django-allauth==0.63.3
+django-ckeditor==6.7.1
+django-cors-headers==4.3.1
+django-jazzmin==3.0.0
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+djoser==2.2.2
+pillow==10.2.0
+PyJWT==2.8.0
+
+
